@@ -51,6 +51,9 @@
       
       scss는 _로 시작하는 파일은 컴파일하지 않는다.
       
+![image](https://github.com/hyejin192/sass/assets/129017064/a6307cc0-94b6-4c40-8db5-67fc890b6084)
+
+      
       
  
    
