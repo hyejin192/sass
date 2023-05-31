@@ -62,7 +62,19 @@
 ## @use 
 
       변수이름이 같을 땐 에러발생, @use를 사용할 땐 앞에 파일명을 추가해서 파일명.변수명으로 입력
-![image](https://github.com/hyejin192/sass/assets/129017064/dce1b39f-3aa8-4619-84eb-5c3528227c61)
+![image](https://github.com/hyejin192/sass/assets/129017064/2fd8e86d-a7c5-45b4-a5b0-6fd1cabfe6a6)
+
+## as 
+      
+      뒤에 별명을 붙여서 사용할 수 있다.
+![image](https://github.com/hyejin192/sass/assets/129017064/73afc17f-64e3-4f28-a4d5-1936d523c8e1)
+
+## @forward
+
+      파샬을 묶어줌 style.scss에서는 _index.scss를 호출하여 사용 (거의 사용 안 함)
+![image](https://github.com/hyejin192/sass/assets/129017064/1dc4d20d-9b4e-48d0-bf9e-527b361700f1)
+
+
 
 
       
