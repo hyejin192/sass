@@ -74,6 +74,12 @@
       파샬을 묶어줌 style.scss에서는 _index.scss를 호출하여 사용 (거의 사용 안 함)
 ![image](https://github.com/hyejin192/sass/assets/129017064/1dc4d20d-9b4e-48d0-bf9e-527b361700f1)
 
+## *(와일드카드)
+
+      *을 붙이면 이름을 생략할 수 있음 🌟
+![image](https://github.com/hyejin192/sass/assets/129017064/db694a50-89df-453a-9872-e3cd513848de)
+
+
 
 
 
