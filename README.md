@@ -53,6 +53,18 @@
       
 ![image](https://github.com/hyejin192/sass/assets/129017064/a6307cc0-94b6-4c40-8db5-67fc890b6084)
 
+## @import
+
+      변수이름이 중복될 땐 아래의 것이 적용된다
+![image](https://github.com/hyejin192/sass/assets/129017064/3824ee23-de64-4e00-aa4e-893c98096a99)
+
+
+## @use 
+
+      변수이름이 같을 땐 에러발생, @use를 사용할 땐 앞에 파일명을 추가해서 파일명.변수명으로 입력
+![image](https://github.com/hyejin192/sass/assets/129017064/dce1b39f-3aa8-4619-84eb-5c3528227c61)
+
+
       
       
  
