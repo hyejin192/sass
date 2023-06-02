@@ -84,6 +84,26 @@
       전역변수는 어디서든 쓸 수 있지만 지역변수는 스타일 안에서만 쓸 수 있음
 ![image](https://github.com/hyejin192/sass/assets/129017064/7510ed27-a713-4d7f-a275-7a034c889777)
 
+## 보간법 ✈️
+
+![image](https://github.com/hyejin192/sass/assets/129017064/1b91249a-848a-4769-be8b-240e4f194f48)
+
+## nesting(네스팅) 🥑
+
+      "품다"라는 뜻
+![image](https://github.com/hyejin192/sass/assets/129017064/f0d618b9-9029-4ec0-b759-1557683d9f18)
+![image](https://github.com/hyejin192/sass/assets/129017064/d0270be5-8488-44a7-9bda-3bc4b633fdba)
+
+      font를 하나로 묶어서 쓸 수 있음 
+      
+## 🤯 함수 (basic6 참조)
+![image](https://github.com/hyejin192/sass/assets/129017064/701ca4fb-869a-419b-9cc2-e4ead32212a2)
+![image](https://github.com/hyejin192/sass/assets/129017064/775ea52c-8fa2-44ec-a966-9acfa9f6e8a3)
+
+
+
+
+
 
 
 
