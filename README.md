@@ -100,6 +100,15 @@
 ![image](https://github.com/hyejin192/sass/assets/129017064/701ca4fb-869a-419b-9cc2-e4ead32212a2)
 ![image](https://github.com/hyejin192/sass/assets/129017064/775ea52c-8fa2-44ec-a966-9acfa9f6e8a3)
 
+![image](https://github.com/hyejin192/sass/assets/129017064/93c23618-b840-422d-b01d-105c55ca29e4)
+
+      sass가 가지고 있는 내장함수 중 일부
+
+![image](https://github.com/hyejin192/sass/assets/129017064/a2c841c7-cdb4-4019-a8af-0d7bdc8ae154)
+### extend (공통함수를 묶어서 보냄)
+![image](https://github.com/hyejin192/sass/assets/129017064/04310e10-a286-4383-bc58-e6536477d920)
+
+
 
 
 
