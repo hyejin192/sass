@@ -105,14 +105,12 @@
       sass가 가지고 있는 내장함수 중 일부
 
 ![image](https://github.com/hyejin192/sass/assets/129017064/a2c841c7-cdb4-4019-a8af-0d7bdc8ae154)
+
 ### extend (공통함수를 묶어서 보냄)
 ![image](https://github.com/hyejin192/sass/assets/129017064/04310e10-a286-4383-bc58-e6536477d920)
 
-## extend, mixin 호출
-![image](https://github.com/hyejin192/sass/assets/129017064/a131c562-a7ab-4a4a-a9c4-a23f53f34fc9)
-
-      extend는 변수이름 앞에 %를 붙이고 호출할 땐 @extend 변수이름, minin을 호출할 땐 @include 변수이름
-## mixin
+     
+### mixin (매개변수를 통해 다른 값을 할당)
 ![image](https://github.com/hyejin192/sass/assets/129017064/f9044134-7770-4e3e-b11e-3eab04ca5f64)
 
       extend와 다르게 같은 스타일이어도 묶어지지 않고 cls4, cls5처럼 따로 호출됨
@@ -122,6 +120,11 @@
       @content를 사용하면 공통적인 부분과 추가해야하는 부분을 설정할 수 있다.
       
  ![image](https://github.com/hyejin192/sass/assets/129017064/bd08a1c2-f4b6-4f11-a570-3c6c7cf9035f)
+ 
+ ## extend, mixin 호출
+![image](https://github.com/hyejin192/sass/assets/129017064/a131c562-a7ab-4a4a-a9c4-a23f53f34fc9)
+
+       extend는 변수이름 앞에 %를 붙이고 호출할 땐 @extend 변수이름, minin을 호출할 땐 @include 변수이름
 
 
 
