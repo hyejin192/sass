@@ -108,6 +108,17 @@
 ### extend (공통함수를 묶어서 보냄)
 ![image](https://github.com/hyejin192/sass/assets/129017064/04310e10-a286-4383-bc58-e6536477d920)
 
+## extend, mixin 호출
+![image](https://github.com/hyejin192/sass/assets/129017064/a131c562-a7ab-4a4a-a9c4-a23f53f34fc9)
+
+      extend를 호출할 땐 @extend 변수이름, minin을 호출할 땐 @include 변수이름
+## mixin
+![image](https://github.com/hyejin192/sass/assets/129017064/f9044134-7770-4e3e-b11e-3eab04ca5f64)
+
+      extend와 다르게 같은 스타일이어도 묶어지지 않고 cls4, cls5처럼 따
+
+
+
 
 
 
