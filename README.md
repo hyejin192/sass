@@ -79,16 +79,16 @@
       *을 붙이면 이름을 생략할 수 있음 🌟
 ![image](https://github.com/hyejin192/sass/assets/129017064/db694a50-89df-453a-9872-e3cd513848de)
 
-## 전역변수와 지역변수 ✔️
+##  ✔️ 전역변수와 지역변수
       
       전역변수는 어디서든 쓸 수 있지만 지역변수는 스타일 안에서만 쓸 수 있음
 ![image](https://github.com/hyejin192/sass/assets/129017064/7510ed27-a713-4d7f-a275-7a034c889777)
 
-## 보간법 ✈️
+## 보간법 
 
 ![image](https://github.com/hyejin192/sass/assets/129017064/1b91249a-848a-4769-be8b-240e4f194f48)
 
-## nesting(네스팅) 🥑
+## nesting(네스팅)
 
       "품다"라는 뜻
 ![image](https://github.com/hyejin192/sass/assets/129017064/f0d618b9-9029-4ec0-b759-1557683d9f18)
@@ -111,11 +111,18 @@
 ## extend, mixin 호출
 ![image](https://github.com/hyejin192/sass/assets/129017064/a131c562-a7ab-4a4a-a9c4-a23f53f34fc9)
 
-      extend를 호출할 땐 @extend 변수이름, minin을 호출할 땐 @include 변수이름
+      extend는 변수이름 앞에 %를 붙이고 호출할 땐 @extend 변수이름, minin을 호출할 땐 @include 변수이름
 ## mixin
 ![image](https://github.com/hyejin192/sass/assets/129017064/f9044134-7770-4e3e-b11e-3eab04ca5f64)
 
-      extend와 다르게 같은 스타일이어도 묶어지지 않고 cls4, cls5처럼 따
+      extend와 다르게 같은 스타일이어도 묶어지지 않고 cls4, cls5처럼 따로 호출됨
+      
+ ![image](https://github.com/hyejin192/sass/assets/129017064/6f4b0424-c6b9-419a-9b74-a14215d5322f)
+
+      @content를 사용하면 공통적인 부분과 추가해야하는 부분을 설정할 수 있다.
+      
+ ![image](https://github.com/hyejin192/sass/assets/129017064/bd08a1c2-f4b6-4f11-a570-3c6c7cf9035f)
+
 
 
 
