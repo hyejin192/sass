@@ -125,6 +125,13 @@
 ![image](https://github.com/hyejin192/sass/assets/129017064/a131c562-a7ab-4a4a-a9c4-a23f53f34fc9)
 
        extend는 변수이름 앞에 %를 붙이고 호출할 땐 @extend 변수이름, minin을 호출할 땐 @include 변수이름
+       
+# 목록형 변수 - basic10 폴더 참고
+![image](https://github.com/hyejin192/sass/assets/129017064/1be19f52-4e6b-444b-a55f-cfe1791b840a)
+![image](https://github.com/hyejin192/sass/assets/129017064/83683da5-47ac-422a-9a85-64785c379252)
+
+      
+
 
 
 
