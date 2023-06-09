@@ -130,8 +130,11 @@
 ![image](https://github.com/hyejin192/sass/assets/129017064/1be19f52-4e6b-444b-a55f-cfe1791b840a)
 ![image](https://github.com/hyejin192/sass/assets/129017064/83683da5-47ac-422a-9a85-64785c379252)
 
-# map형 데이타
+# map형 데이타 (객체) - basic11,12 폴더 
 ![image](https://github.com/hyejin192/sass/assets/129017064/d5196437-9a5d-413b-b540-958a1c3d0e01)
+
+![image](https://github.com/hyejin192/sass/assets/129017064/de131b63-893b-4e18-a5ba-431c8d19bc69)
+
 
 
       
